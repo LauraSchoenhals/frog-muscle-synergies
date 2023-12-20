@@ -13,5 +13,5 @@ You will need:
 
 Where to start: 
 1) Download SDO Analysis Toolkit
-2) Import the 'import' file which contains the data used in this project
+2) Import the 'import' file which contains the data used in this project (this has not yet been uploaded to the repository)
 3) Try: 'SortNeurons', 'runSDO'
